@@ -9,7 +9,7 @@ diana.title("tugas uts")
 label = ttk.Label(diana, text="WELCOME", font=('bold', 16))
 label.grid(row=0, column=0, columnspan=4, sticky="n")
 # Membuat label "info_label"
-info_label = ttk.Label(diana, text="Nama : ahmad thahar al azhari\nnim     : 310122023672\nemail  : hariamd210@gmail.com").grid(row=1, column=0, padx=20, pady=5)
+info_label = ttk.Label(diana, text="Nama : RIKASHIKI\n email  : hariamd210@gmail.com").grid(row=1, column=0, padx=20, pady=5)
 # membuat label untuk tombol agar tidak terpengaruh yang lain
 proyek_labelbut = ttk.Label(diana, text="")
 proyek_labelbut.grid(row=1, column=2, padx=1, pady=1)
